@@ -12,7 +12,7 @@
 
 ---
 
-## 🚧 Status
+## Status
 
 O projeto ainda está em desenvolvimento.
 
@@ -20,7 +20,7 @@ Novas funcionalidades, melhorias de arquitetura e integrações estão sendo imp
 
 ---
 
-# 📚 Sobre o projeto
+# Sobre o projeto
 
 O **FitSync** é uma plataforma focada no gerenciamento de:
 
@@ -35,7 +35,7 @@ O objetivo do projeto é fornecer uma solução moderna para gestão fitness, co
 
 ---
 
-# 🛠️ Stack utilizada
+# Stack utilizada
 
 <div align="center">
 
@@ -47,7 +47,7 @@ O objetivo do projeto é fornecer uma solução moderna para gestão fitness, co
 
 ---
 
-# ⚙️ Tecnologias
+# Tecnologias
 
 - Java 21
 - Spring Boot
@@ -56,7 +56,7 @@ O objetivo do projeto é fornecer uma solução moderna para gestão fitness, co
 
 ---
 
-# 🔐 Funcionalidades planejadas
+# Funcionalidades planejadas
 
 - [ ] Autenticação JWT
 - [ ] Controle de permissões
@@ -70,7 +70,7 @@ O objetivo do projeto é fornecer uma solução moderna para gestão fitness, co
 
 ---
 
-# 🚀 Futuras integrações
+# Futuras integrações
 
 - React Web App
 - React Native Mobile App
@@ -80,7 +80,7 @@ O objetivo do projeto é fornecer uma solução moderna para gestão fitness, co
 
 ---
 
-# 📌 Objetivo
+# Objetivo
 
 Este projeto está sendo desenvolvido com foco em:
 
@@ -91,7 +91,7 @@ Este projeto está sendo desenvolvido com foco em:
 
 ---
 
-# 👨‍💻 Autores
+# Autores
 
 <div align="center">
   <table>
